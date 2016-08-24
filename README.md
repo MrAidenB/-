@@ -2,7 +2,7 @@
 Noob Stuff
 
 <html>
-<head> Page </head>
+<head> html Page </head>
 <body>
 <h1> Hi </h1>
 </body>
